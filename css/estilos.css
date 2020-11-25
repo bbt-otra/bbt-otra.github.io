@@ -418,6 +418,34 @@ footer .copyright {
         width: 90%;
         float: left;
     }
+    
+    .main .menu article .categoria {
+        font-size: 20px;
+    }
+
+    .main .menu article .title-categoria,
+    .main .menu article .sub-categoria{
+        font-size: 16px;
+
+    }
+    .main .menu article .platillo .sub-notes{
+        font-size: 12px;
+    }
+
+    .main .menu article .platillo p {
+        margin-bottom: 8px;
+    }
+
+    .main .menu article .platillo img{
+        width: 12px;
+        height: 12px;
+    }
+
+    .main .menu article .nombre,
+    .main .menu article .precio {
+        font-size: 12px;
+        line-height: 12px;
+    }
 
     .main .galeria .foto {
         width: 50%;
