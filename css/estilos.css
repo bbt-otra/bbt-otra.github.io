@@ -214,6 +214,7 @@ header .textos h3 {
 
 .main .galeria {
     overflow: hidden;
+    width: 100%;
 }
 
 .main .galeria .foto {
