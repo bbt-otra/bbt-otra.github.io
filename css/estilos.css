@@ -154,6 +154,10 @@ header .textos h3 {
     padding: 20px;
 }
 
+.main .menu .article p{
+    margin-bottom: 10px;
+}
+
 .main .menu .categoria {
     font-size: 22px;
     font-weight: 700;
