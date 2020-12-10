@@ -35,7 +35,7 @@ $(document).ready(function(){
     var acercaDe = $('#acerca-de').offset().top - 150;
     var menu = $('#menu').offset().top + 500;
     var galeria = $('#galeria').offset().top;
-    var ubicacion = $('#ubicacion').offset().top;
+    var ubicacion = $('#ubicacion').offset().top + 162.5;
 
     $('#btn-acerca-de').on('click', function(e){
         e.preventDefault();
