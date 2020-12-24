@@ -480,14 +480,17 @@ footer .copyright {
     }
 
     .main .menu article .platillo img{
-        width: 10px;
-        height: 10px;
+        width: 14px;
+        height: 14px;
     }
 
     .main .menu article .nombre,
     .main .menu article .precio {
-        font-size: 10px;
-        line-height: 10px;
+        display: block;
+        text-align: center;
+        float: none;
+        font-size: 16px;
+        line-height: 20px;
     }
 
     .main .ubicacion .direccion {
